@@ -3,6 +3,7 @@
 #include <fstream>
 #include <map>
 #include <random>
+#include <algorithm>
 #include "Solver.h"
 
 std::vector<std::string> words() {

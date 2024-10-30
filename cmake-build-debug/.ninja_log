@@ -1,7 +1,0 @@
-# ninja log v6
-4	628	1722780750461285662	CMakeFiles/untitled.dir/main.cpp.o	7eb7258c9fe1ccb4
-2	795	1722341066170843432	CMakeFiles/untitled.dir/Solver.cpp.o	7a8a9ae22e93ee4d
-628	682	1722780751085285283	untitled	98e2eb41f1906d21
-1	671	1726063078064523060	CMakeFiles/untitled.dir/main.cpp.o	7eb7258c9fe1ccb4
-1	770	1726063078064523060	CMakeFiles/untitled.dir/Solver.cpp.o	7a8a9ae22e93ee4d
-770	820	1726063078833521841	untitled	98e2eb41f1906d21
